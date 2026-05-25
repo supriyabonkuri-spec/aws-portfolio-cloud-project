@@ -15,6 +15,8 @@ ServicePurposeAWS S3Hosts the static portfolio website filesAWS CloudFrontProvid
 
 
 🚀 How It Works
+
+
 1)Static Website
 
 index.html is uploaded to S3 bucket
